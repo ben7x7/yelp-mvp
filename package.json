@@ -16,7 +16,7 @@
     "postcss": "^8.2.10",
     "set-value": "^4.0.1",
     "ssri": "^8.0.1",
-    "svgo": "^2",
+    "svgo": "2",
     "turbolinks": "^5.2.0",
     "uuid": "^7",
     "vanilla-tilt": "^1.7.2"
